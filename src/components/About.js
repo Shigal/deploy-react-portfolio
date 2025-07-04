@@ -4,7 +4,7 @@ export default function About(){
 
     const config = {
         line1: 'I\'m a passionate and detail-oriented full-stack developer. I specialize in creating end-to-end solutions using Spring Boot for backend development and Angular for modern, responsive frontend interfaces. With a strong understanding of RESTful APIs, microservices architecture, and clean code practices, I enjoy turning complex problems into elegant and efficient solutions. Whether it\'s designing backend systems, crafting user-friendly interfaces, or ensuring smooth integration between components, I aim to deliver high-quality, maintainable software. ',
-        line2: 'I\’m comfortable working in agile environments, collaborating with cross-functional teams, and continuously learning new tools and technologies to improve both the product and the development process.'
+        line2: 'I\'m comfortable working in agile environments, collaborating with cross-functional teams, and continuously learning new tools and technologies to improve both the product and the development process.'
     }
 
     return <section id='about' className='flex flex-col md:flex-row bg-secondary'>
