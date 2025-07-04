@@ -1,5 +1,3 @@
-import AboutImg from '../assets/contact.png'
-
 export default function Contact(){
     const config = {
         email: 'lawshiga11uoj@gmail.com',

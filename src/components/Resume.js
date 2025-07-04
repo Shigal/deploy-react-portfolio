@@ -1,4 +1,4 @@
-import AboutImg from '../assets/contact.png'
+import AboutImg from '../assets/resume.png'
 
 export default function Resume(){
     const config = {
